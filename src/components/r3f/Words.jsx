@@ -43,7 +43,7 @@ export function Words() {
           height={0.065}
           curveSegments={12}
         >
-          Project: ATLAS
+          L&C Project Management Group LLC.
           <meshStandardMaterial color={  0x00FFFF } emissive={[0.1, 0.1, 0]} />
         </Text3D>
       </Float>
