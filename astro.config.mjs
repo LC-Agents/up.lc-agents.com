@@ -11,15 +11,15 @@ import svelte from "@astrojs/svelte";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://rentearth.com/",
+  site: "https://lc-agents.com/",
   experimental: {
     viewTransitions: true
    },
   integrations: [
     sitemap({
       customPages: [
-        "https://app.rentearth.com/#/",
-        "https://app.rentearth.com/",
+        "https://app.lc-agents.com/#/",
+        "https://app.lc-agents.com/",
       ],
     }),
 
